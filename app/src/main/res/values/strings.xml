@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="app_title">Convert Currency</string>
+    <string name="convert_button">Convert</string>
+    <string name="amount_hint">Enter amount</string>
+    <string name="from_currency_label">From Currency</string>
+    <string name="to_currency_label">To Currency</string>
+    <string name="unknown_error">Unknown error</string>
+    <string name="currency_rates_not_found">Currency rates not found</string>
+    <string name="api_error">API error</string>
+    <string name="invalid_amount">Invalid amount</string>
+    <string name="copyright">© 2025 AYA</string>
+</resources>
